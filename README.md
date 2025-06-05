@@ -28,7 +28,7 @@ Click here to view the live site (https://github.com/MatthewTuurozeeng/odin_reci
 
 ##  Screenshots
 ### Home page
-![Home page screenshot](images/Home_page.png)
+![Home page screenshot](images/Home_page1.png)
 ### jollof page
 ![Jollof page screenshot](images/Jollof_page.png)
 
